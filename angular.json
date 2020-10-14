@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "peliculasapp"
+    }
+  },
+  "defaultProject": "peliculasapp",
+  "cli": {
+    "analytics": "d59be6b7-6127-4972-986f-ad22fadb10e7"
+  }
 }
